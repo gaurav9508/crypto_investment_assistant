@@ -21,3 +21,7 @@ config/settings.py
 # Other
 .DS_Store
 
+#ennvironment
+agent/
+
+
