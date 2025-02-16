@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Config files with sensitive information
+config/settings.py
+
+# Other
+.DS_Store
+
