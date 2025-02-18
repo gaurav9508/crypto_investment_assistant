@@ -15,13 +15,9 @@ env/
 # Logs
 *.log
 
-# Config files with sensitive information
-config/settings.py
-
 # Other
 .DS_Store
 
-#ennvironment
-agent/
-
+# Sensitive information
+.env
 
